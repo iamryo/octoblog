@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://IAMRYO.github.io/atom.xml" rel="self"/>
-  <link href="http://IAMRYO.github.io/"/>
-  <updated>2013-07-26T13:40:19-07:00</updated>
-  <id>http://IAMRYO.github.io/</id>
+  <link href="http://IAMRYO.github.io//github/atom.xml" rel="self"/>
+  <link href="http://IAMRYO.github.io//github/"/>
+  <updated>2013-07-26T14:05:42-07:00</updated>
+  <id>http://IAMRYO.github.io//github/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://IAMRYO.github.io//github/blog/2013/07/26/hello-world/"/>
+    <updated>2013-07-26T14:02:00-07:00</updated>
+    <id>http://IAMRYO.github.io//github/blog/2013/07/26/hello-world</id>
+    <content type="html"><![CDATA[<p>Hello World!!! Lorem ipsum Velit esse Excepteur sed Ut cillum commodo cupidatat cupidatat in pariatur dolore ut pariatur eiusmod cillum ex eu deserunt occaecat veniam amet reprehenderit amet ea pariatur qui</p>
+
+<!-- more -->
+
+
+<p>commodo consequat tempor dolor elit ullamco consectetur id fugiat magna in aliqua eu ut nostrud occaecat voluptate ad magna nostrud qui elit exercitation in anim do reprehenderit amet voluptate magna ea irure est eiusmod dolor ex aliqua adipisicing aute incididunt labore Ut ullamco aute in laborum in deserunt cillum aliquip pariatur Excepteur voluptate ea velit enim veniam mollit eiusmod reprehenderit ut Ut sint ex ad enim ex commodo officia eu adipisicing reprehenderit proident ex quis ut incididunt sint occaecat commodo sit aliquip ea magna deserunt sed veniam do Ut tempor enim adipisicing commodo nostrud voluptate mollit eiusmod nostrud anim ut non ex non dolore proident minim commodo occaecat reprehenderit velit incididunt ut enim incididunt cupidatat Ut sit ut id laborum officia incididunt cupidatat sint magna Ut do do eu in magna tempor sed ex dolor elit dolore in aliqua amet nisi aliquip et in sit exercitation consectetur laboris sit exercitation culpa cupidatat.</p>
+]]></content>
+  </entry>
   
 </feed>

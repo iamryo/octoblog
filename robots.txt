@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://IAMRYO.github.io/sitemap.xml 
+Sitemap: http://IAMRYO.github.io//github/sitemap.xml 
